@@ -3,8 +3,8 @@
 *.vs
 *.x64
 *.packages
-*.x64/*
-*.packages/*
+/x64/
+/packages/
 
 # Compiled Object files
 *.slo
