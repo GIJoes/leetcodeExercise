@@ -1,9 +1,7 @@
 # Prerequisites
 *.d
 *.vs
-*.x64
-*.packages
-/x64/
+x64/
 /packages/
 
 # Compiled Object files
